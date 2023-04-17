@@ -1,3 +1,3 @@
 # zoriV
 
-[https://zoriv.github.io]
+https://zoriv.github.io
